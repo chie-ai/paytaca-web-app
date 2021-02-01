@@ -1,6 +1,5 @@
 <template>
-  <img v-if="logo" src="paytaca_dark_mode.svg" class="NuxtLogo" width="150">
-  <img v-else src="paytaca.svg" class="NuxtLogo" width="150">
+  <img :src="[ logo ? 'paytaca_dark_mode.svg' : 'paytaca.svg']" class="NuxtLogo" width="150">
 
 </template>
 
