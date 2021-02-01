@@ -179,7 +179,7 @@ body {
   }
 }
 .btn-back-top-hide {
-	bottom: 0pt !important;
+	bottom: -5pt !important;
 }
 /* svg css */
 .custom-shape-divider-bottom-1611813748 {
