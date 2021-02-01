@@ -307,7 +307,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="presentation-row-getintouch mt-2" style="position: relative;" id="contact">
+		<div class="presentation-row-getintouch" style="position: relative;" id="contact">
 			<div class="wrapper-presentation" >
 				<div class="container-fluid" style="z-index: 3">
 					<div class="row mx-1 pt-5 pb-4">
