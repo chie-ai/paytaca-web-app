@@ -163,7 +163,7 @@ body {
 	border: 2px solid #0962E7;
 	box-shadow: .5px .5px 2px 1px #989CA0;
 	opacity: 0;
-	transition: opacity .4s;
+	transition: all .4s;
 	z-index: 4;
 }
 .btn-join-waitlist:hover {
@@ -177,6 +177,9 @@ body {
   0% {
 	bottom: 0pt;
   }
+}
+.btn-back-top-hide {
+	bottom: 0 !important;
 }
 /* svg css */
 .custom-shape-divider-bottom-1611813748 {

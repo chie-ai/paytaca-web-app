@@ -421,6 +421,7 @@ export default {
 		handleScroll () {
 	    	var el = document.getElementById('btn-back-top')
 		    window.scrollY > 658 ? el.classList.add("btn-back-top-show") : el.classList.remove("btn-back-top-show")
+		    window.scrollY < 658 ? el.classList.add("btn-back-top-hide") : el.classList.remove("btn-back-top-hide")
 		},
 		changeBodyMode () {
 			document.body.style.backgroundColor = this.darkMode ? '#2d3748' : ''
