@@ -14,12 +14,12 @@
 							<p class="fs-5 mt-4" :class="{ 'content-night-mode': darkMode }">Paytaca wants to bridge this gap as we introduce clever and user-friendly innovations through the safety and security of digital money -- as if you have cash on your hands.</p>
 							<div class="row">
 								<div class="d-flex justify-content-center justify-content-md-start mt-3 mb-5">
-									<a href="#" type="button" class="btn btn-md btn-primary" style="position: relative; z-index: 3">
+									<a href="#?" type="button" class="btn btn-md btn-primary" style="position: relative; z-index: 3">
 										<i class="fab fa-google-play fa-lg" style="position: relative; top: -3px;"></i>
 										<span style="position: absolute; top: 8px" class="font-sm">GET IT ON</span>
 										<span style="margin-top: 10px; display: inline-block">Google Play</span>
 									</a>
-									<a href="#" type="button" class="btn btn-primary pt-3 ms-3" style="position: relative; z-index: 3">
+									<a href="#?" type="button" class="btn btn-primary pt-3 ms-3" style="position: relative; z-index: 3">
 										<i class="fab fa-apple fa-lg" style="position: relative; top: -4px;"></i>
 										<span style="position: absolute; top: 8px" class="font-sm">Download on the</span>
 										<span>App Store</span>
@@ -41,7 +41,7 @@
 			    </svg>
 			</div>
 		</div>
-		<div class="presentation-row">
+		<div class="row-separator">
 			<div class="wrapper-presentation">
 				<div class="row mx-1 py-4 pt-md-4 pb-md-5">
 					<div class="col-md-6 mt-4 mt-md-3">
@@ -95,7 +95,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="presentation-row mt-2" id="ecosystem">
+		<div class="row-separator mt-2" id="ecosystem">
 			<div class="wrapper-presentation">
 				<div class="container-fluid">
 					<div class="row pt-5">
@@ -184,7 +184,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="presentation-row mt-2" id="team">
+		<div class="row-separator mt-2" id="team">
 			<div class="wrapper-presentation">
 				<div class="container-fluid">
 					<div class="row pt-5">
@@ -307,8 +307,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="presentation-row-getintouch" style="position: relative;" id="contact">
-			<div class="wrapper-presentation" >
+		<div class="getintouch-row" style="position: relative;" id="contact">
+			<div class="wrapper-row" >
 				<div class="container-fluid" style="z-index: 3">
 					<div class="row mx-1 pt-5 pb-4">
 						<div class="col">
@@ -367,8 +367,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="presentation-row mt-2">
-			<div class="wrapper-presentation-footer">
+		<div class="row-separator mt-2">
+			<div class="wrapper-footer">
 				<div class="container-fluid">
 					<div class="row mx-1 pt-4 pb-3">
 						<div class="col-md-4">
