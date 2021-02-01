@@ -13,7 +13,7 @@
 .NuxtLogo {
   animation: 1s appear;
   margin: auto;
-  transition: .3s !important;
+  transition: all .5s !important;
 }
 
 @keyframes appear {

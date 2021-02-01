@@ -6,7 +6,7 @@ html {
 body {
 	animation: 1s appear;
     overflow-x: hidden;
-    transition: .2s;
+    transition: .5s;
 }
 @keyframes appear {
   0% {
